@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Primeiros Passos com Testes Automatizados",
+      "description": "Escrevendo testes automatizados para funções Python com pytest",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
