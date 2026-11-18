@@ -1,19 +1,19 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build a Hangman game in Python to practice strings, loops, conditionals, random selection, and user input. The player guesses a hidden word before running out of incorrect guesses.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Build the Hangman Game
 
-#### Description
+#### Descrição
 Create a command-line Hangman game that selects a word from a predefined list and lets the player guess letters until they win or run out of attempts.
 
-#### Requirements
-The completed program should:
+#### Requisitos
+O programa concluído deve:
 
 - Select a word randomly from a predefined list.
 - Display each unguessed letter as an underscore and reveal correctly guessed letters in their positions.
@@ -23,11 +23,11 @@ The completed program should:
 
 ### 🛠️ Validate Guesses and Give Feedback
 
-#### Description
+#### Descrição
 Handle player input consistently so invalid or repeated guesses do not make the game unfair or confusing.
 
-#### Requirements
-The completed program should:
+#### Requisitos
+O programa concluído deve:
 
 - Accept guesses without regard to letter case.
 - Require each guess to be a single alphabetic character; prompt again when the input is invalid.
